@@ -6,7 +6,7 @@ Starter repository for an in-person hackathon where teams of Earth scientists gi
 
 | Event detail | Status |
 |---|---|
-| Organizer | Hugo Kyo Lee & KS Youn |
+| Organizer | Hugo Kyo Lee & KS Yun |
 | Format | In person only, teams, setup clinic before the start |
 | Date, venue, duration, registration | 10 AM - 1 PM, 167-151 |
 | Agenda | [Provisional one-day agenda](docs/agenda.md) |
